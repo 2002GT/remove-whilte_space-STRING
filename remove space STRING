@@ -11,6 +11,7 @@ string remove_space(char str[]){
       if(str[i] != ' ')
       str[count] =  str[i] ;
       
+      
       count++;
   }
   
@@ -25,3 +26,5 @@ int main() {
 
   return 0;
 }
+
+.
